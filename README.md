@@ -1,3 +1,3 @@
 #Rock Paper Scissor
-
-https://naeem1145.github.io/Rockpaper/
+LIVE LINK: 
+https://naeem1145.github.io/Rock_paper_scissor/
